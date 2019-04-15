@@ -1,5 +1,8 @@
 ### Workflow name: GenerateSyntheticReads
 ##
+##
+## RUCHI MADE THIS CHANGE
+##
 ## This workflow uses the NEAT toolkit to generate synthetic paired-end read data based on a file of input variants
 ## and a desired mutation rate (can be 0 to not include any random mutation in addition to the input variants).
 ## It creates an analysis-ready BAM file and a "ground truth" VCF.
